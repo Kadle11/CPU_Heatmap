@@ -5,9 +5,11 @@ This repository uses the seaborn module in python to create a heatmap of each CP
 ## Requirements
 A. Python3 Libraries
 	
-Matplotlib
-Seaborn
-Numpy
+1. Matplotlib
+2. Seaborn
+3. Numpy
+
+B. System Activity Report (SAR) tool on Linux
 
 ## Usage
 
